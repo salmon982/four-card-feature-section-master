@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS Grid](https://youtu.be/rg7Fvvl3taU) - This is an amazing video which helped me finally understand CSS Grid. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
