@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Grid four card feature section](https://www.frontendmentor.io/solutions/grid-four-card-feature-section-fY9rOuOC3x)
+- Live Site URL: [Live site](https://grid-four-card.netlify.app/)
 
 ## My process
 
